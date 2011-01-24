@@ -1,0 +1,6 @@
+This simple script properly installs VMWare Tools on an Ubuntu Virtual Machine
+running in VMWare which will allow the ubuntu machine to properly mount shared
+folders from the host.
+
+Please note that this script is intended to be run as root from a clean
+installation.
